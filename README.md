@@ -22,6 +22,10 @@ This repository contains notebooks and utilities for:
 
 ---
 
+## Benchmarks
+<img width="1752" height="433" alt="gemma3-benchmark" src="https://github.com/user-attachments/assets/655337f5-95fc-4a91-9e6f-643165932440" />
+
+
 ## ⚙️ Setup
 
 ```bash
@@ -30,9 +34,3 @@ cd <repo>
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-
-
-## Benchmarks
-
-
-<img width="1752" height="433" alt="gemma3-benchmark" src="https://github.com/user-attachments/assets/655337f5-95fc-4a91-9e6f-643165932440" />
