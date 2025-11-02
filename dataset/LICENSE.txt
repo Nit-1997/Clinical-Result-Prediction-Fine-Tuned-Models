@@ -1,0 +1,23 @@
+MIT LICENSE (MODIFIED FOR SYNTHETIC MEDICAL DATA)
+
+Copyright (c) 2025 EM - SIANABOX
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this synthetic medical dataset (the “Dataset”), to use, copy, modify, merge,
+publish, and distribute it, subject to the following conditions:
+
+1. The Dataset is entirely synthetic and generated for research, educational, and
+   machine learning training purposes.
+
+2. Redistribution or commercial use is allowed **only in derived or integrated products**,
+   not as raw resale or direct duplication of the dataset.
+
+3. The Dataset may not be used in any way that violates laws related to data protection,
+   medical ethics, or patient privacy.
+
+4. The original author must be acknowledged in any public or commercial use.
+
+THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Created by: EM - SIANABOX
+Date: June 2025
