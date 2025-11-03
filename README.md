@@ -23,7 +23,16 @@ This repository contains notebooks and utilities for:
 ---
 
 ## Benchmarks
-<img width="1752" height="433" alt="gemma3-benchmark" src="https://github.com/user-attachments/assets/655337f5-95fc-4a91-9e6f-643165932440" />
+
+<img width="1302" height="499" alt="Screenshot 2025-11-03 at 12 14 35 AM" src="https://github.com/user-attachments/assets/ed7a6c35-5611-4bd3-bf68-5ca8d54cc3f2" />
+
+<img width="1302" height="991" alt="Screenshot 2025-11-03 at 12 14 58 AM" src="https://github.com/user-attachments/assets/e27c7b78-c709-4f84-a60b-7a3d362e8163" />
+
+<img width="1302" height="986" alt="Screenshot 2025-11-03 at 12 15 25 AM" src="https://github.com/user-attachments/assets/4df876f9-23ba-46b2-9287-9c9439aa281b" />
+
+<img width="1302" height="513" alt="Screenshot 2025-11-03 at 12 15 46 AM" src="https://github.com/user-attachments/assets/2c34cb5c-cddd-4e34-b30a-7f065ced9b86" />
+
+
 
 
 ## ⚙️ Setup
