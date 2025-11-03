@@ -2,14 +2,14 @@
   "model_id": "google/gemma-3-270m-it",
   "accuracy": 0.334,
   "macro_f1": 0.16691654172913542,
-  "per_sample_latency_sec_mean": 0.07311252903938294,
-  "per_sample_latency_sec_p95": 0.08138895034790039,
-  "total_time_sec": 147.18749046325684,
+  "per_sample_latency_sec_mean": 0.07432777321338653,
+  "per_sample_latency_sec_p95": 0.08207082748413086,
+  "total_time_sec": 149.69368863105774,
   "resource_stats": {
-    "cpu_percent_max": 33.7,
+    "cpu_percent_max": 32.3,
     "cpu_percent_avg": 25.8,
-    "mem_percent_max": 36.5,
-    "mem_percent_avg": 36.3
+    "mem_percent_max": 46.0,
+    "mem_percent_avg": 46.0
   },
   "report": "              precision    recall  f1-score   support\n\n      Stable       0.33      1.00      0.50       668\n    Improved       0.00      0.00      0.00       665\n    Worsened       0.00      0.00      0.00       667\n\n    accuracy                           0.33      2000\n   macro avg       0.11      0.33      0.17      2000\nweighted avg       0.11      0.33      0.17      2000\n"
 }
