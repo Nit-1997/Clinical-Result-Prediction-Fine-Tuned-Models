@@ -1,0 +1,15 @@
+{
+  "model_id": "google/medgemma-4b-it",
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "per_sample_latency_sec_mean": 2.362938177585602,
+  "per_sample_latency_sec_p95": 2.4586310386657715,
+  "total_time_sec": 4727.710146188736,
+  "resource_stats": {
+    "cpu_percent_max": 61.8,
+    "cpu_percent_avg": 26.3,
+    "mem_percent_max": 47.9,
+    "mem_percent_avg": 47.1
+  },
+  "report": "patient_sex: acc=1.000 | patient_age: acc=1.000 | diagnosis: acc=1.000 | treatment: acc=1.000 | clinical_outcome: acc=1.000"
+}
